@@ -1,0 +1,4 @@
+->table of other muon beams, their acceptances, yields, proton beam power etc
+->NuFACT & COMET beam info for comparison
+->info on FFAGs for muons
+-> JPARC super omega stats

@@ -1,0 +1,11 @@
+LaTeXTemplates/
+
+*.aux
+*.bbl
+*.blg
+*.log
+*.pdf
+*.gz
+*.tmproj
+name.eps
+.DS_Store
